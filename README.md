@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ErrorCode23246
 - 👀 I’m interested in FTC Robotics
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 23246@springfieldrobotics.org
 
 <!---
